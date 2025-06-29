@@ -23,7 +23,7 @@ First, clone this repository to your local machine using Git:
 
 
 
-git clone https://github.com/OltShala/WebScraperSelenium
+git clone https://github.com/OltShala/WebScrapingSelenium
 cd WebScraperSelenium
 
 
