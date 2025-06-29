@@ -39,17 +39,17 @@ Activate the virtual environment:
 
 On macOS/Linux:
 
-Bash
+
 
 source venv/bin/activate
 On Windows:
 
-Bash
+
 
 .\venv\Scripts\activate
 
 Install the dependencies from the requirements.txt file:
-Bash
+
 pip install -r requirements.txt
 This will install selenium, pandas, and webdriver-manager.
 
@@ -61,7 +61,7 @@ Note: The webdriver-manager library will automatically download and manage the c
 Step 4: Run the Scraper
 Once the dependencies are installed and your virtual environment is active, you can run the main script from your terminal:
 
-Bash
+
 
 python hawthon_scraper.py
 After the script completes, a new file named hawthorn_apartments.csv will be generated in the project's root directory, containing all the scraped data.
